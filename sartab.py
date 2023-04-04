@@ -41,7 +41,3 @@ table_data.columns = ['Historique', 'Prévisions']
 # Affichage des données dans un tableau
 st.write('Données historiques et de prévisions :')
 st.table(table_data)
-
-# Affichage de la prédiction pour toutes les données
-st.write('Consommation d\'électricité - Historique et prévisions')
-st.line_chart(pd.concat([train, future], axis=1).rename(columns={'consommation': 'Historique', 0: 'Prévisions'}))

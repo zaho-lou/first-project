@@ -9,3 +9,4 @@ statsmodels
 folium 
 pmdarima
 plotly-express
+hashlib

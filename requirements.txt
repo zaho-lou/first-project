@@ -2,7 +2,7 @@ add_parent_path
 kanilog
 pytest
 stdlogging
-pandas==1.2.3
+pandas
 matplotlib
 statsmodels
 folium 

@@ -4,3 +4,5 @@ pytest
 stdlogging
 pandas==1.2.3
 matplotlib
+statsmodels
+folium 

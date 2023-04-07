@@ -3,7 +3,9 @@ kanilog
 pytest
 stdlogging
 pandas
+numpy
 matplotlib
 statsmodels
 folium 
 pmdarima
+plotly-express

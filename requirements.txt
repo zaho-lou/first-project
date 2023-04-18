@@ -115,3 +115,9 @@ watchdog==3.0.0
 Werkzeug==2.2.3
 wrapt==1.14.1
 zipp==3.15.0
+oauthlib==3.2.2
+openpyxl==3.1.2
+opt-einsum==3.3.0
+orjson==3.8.9
+overrides==7.3.1
+packaging==23.0

@@ -4,7 +4,7 @@ import pandas as pd
 
 def main():
 
-    conn = sqlite3.connect('ma_base1.db')
+    conn = sqlite3.connect('ma_base.db')
     cur = conn.cursor()
 
     # Interface utilisateur Streamlit

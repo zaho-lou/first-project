@@ -4,7 +4,7 @@ import streamlit as st
 import plotly.graph_objs as go
 
 # Connexion à la base de données
-conn = sqlite3.connect('ma_base1.db')
+conn = sqlite3.connect('ma_base.db')
 c = conn.cursor()
 
 # Création d'un DataFrame vide pour stocker les données du tableau
